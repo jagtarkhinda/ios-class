@@ -29,6 +29,7 @@ class GameScene: SKScene {
         scoreLabel.fontColor = SKColor.yellow
         
         // 4. add the label to the scene
+        //ggjgjgjdjg gjdjgjd
         addChild(scoreLabel)
         
         
